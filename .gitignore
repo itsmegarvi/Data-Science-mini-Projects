@@ -1,0 +1,42 @@
+# Specifies intentionally untracked files to ignore when using Git
+# http://git-scm.com/docs/gitignore
+
+*~
+*\__pycache__/
+**/__pycache__/*/
+D:\DS new Projects\Sentiment Analysis NLP course Coursera\__pycache__/
+Sentiment Analysis NLP course Coursera\__pycache__\utils.cpython-39.py
+*.sw[mnpcod]
+.tmp
+*.tmp
+*.tmp.*
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+Thumbs.db
+UserInterfaceState.xcuserstate
+$RECYCLE.BIN/
+
+*.log
+log.txt
+npm-debug.log*
+
+.idea
+.ionic
+.sass-cache
+.sourcemaps
+.versions
+coverage
+dist
+node_modules
+platforms
+plugins
+www
+
+private-*.sh
+/.vscode/settings.json
+node_modules
+.env
+*.db*
+personal
+keystore
